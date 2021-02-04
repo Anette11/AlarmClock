@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Alarm clock</string>
+    <string name="add_alarm_clock">Add alarm clock</string>
+    <string name="separator">:</string>
+    <string name="repeat">Repeat:</string>
+    <string name="time">Time:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="edit_alarm_clock">Edit alarm clock</string>
+    <string name="delete">Delete</string>
+    <string name="delete_alarm_clock">Delete alarm clock?</string>
+    <string name="delete__all_alarm_clocks">Delete all alarm clocks?</string>
+    <string name="the_same_alarm_clock_is_already_exists">The same alarm clock is already exists!</string>
+    <string name="ok">OK</string>
+    <string name="zero">0</string>
+    <string name="_00">00</string>
+    <string name="_01">01</string>
+    <string name="_02">02</string>
+    <string name="_03">03</string>
+    <string name="_04">04</string>
+    <string name="_05">05</string>
+    <string name="_06">06</string>
+    <string name="_07">07</string>
+    <string name="_08">08</string>
+    <string name="_09">09</string>
+    <string name="_10">10</string>
+    <string name="_11">11</string>
+    <string name="_12">12</string>
+    <string name="_13">13</string>
+    <string name="_14">14</string>
+    <string name="_15">15</string>
+    <string name="_16">16</string>
+    <string name="_17">17</string>
+    <string name="_18">18</string>
+    <string name="_19">19</string>
+    <string name="_20">20</string>
+    <string name="_21">21</string>
+    <string name="_22">22</string>
+    <string name="_23">23</string>
+    <string name="_24">24</string>
+    <string name="_25">25</string>
+    <string name="_26">26</string>
+    <string name="_27">27</string>
+    <string name="_28">28</string>
+    <string name="_29">29</string>
+    <string name="_30">30</string>
+    <string name="_31">31</string>
+    <string name="_32">32</string>
+    <string name="_33">33</string>
+    <string name="_34">34</string>
+    <string name="_35">35</string>
+    <string name="_36">36</string>
+    <string name="_37">37</string>
+    <string name="_38">38</string>
+    <string name="_39">39</string>
+    <string name="_40">40</string>
+    <string name="_41">41</string>
+    <string name="_42">42</string>
+    <string name="_43">43</string>
+    <string name="_44">44</string>
+    <string name="_45">45</string>
+    <string name="_46">46</string>
+    <string name="_47">47</string>
+    <string name="_48">48</string>
+    <string name="_49">49</string>
+    <string name="_50">50</string>
+    <string name="_51">51</string>
+    <string name="_52">52</string>
+    <string name="_53">53</string>
+    <string name="_54">54</string>
+    <string name="_55">55</string>
+    <string name="_56">56</string>
+    <string name="_57">57</string>
+    <string name="_58">58</string>
+    <string name="_59">59</string>
+    <string name="one_time">One time</string>
+    <string name="every_day">Every day</string>
+    <string name="every_monday">Every Monday</string>
+    <string name="every_tuesday">Every Tuesday</string>
+    <string name="every_wednesday">Every Wednesday</string>
+    <string name="every_thursday">Every Thursday</string>
+    <string name="every_friday">Every Friday</string>
+    <string name="every_saturday">Every Saturday</string>
+    <string name="every_sunday">Every Sunday</string>
+    <string name="snooze">Snooze</string>
+    <string name="stop">Stop</string>
+    <string name="alarm_clock_is_snoozed_for">Alarm clock is snoozed for\u0020</string>
+    <string name="minutes">\u0020minutes!</string>
+
+    <string-array name="string_array_list_repeat">
+        <item>@string/one_time</item>
+        <item>@string/every_day</item>
+        <item>@string/every_monday</item>
+        <item>@string/every_tuesday</item>
+        <item>@string/every_wednesday</item>
+        <item>@string/every_thursday</item>
+        <item>@string/every_friday</item>
+        <item>@string/every_saturday</item>
+        <item>@string/every_sunday</item>
+    </string-array>
+
+    <string-array name="string_array_list_minutes">
+        <item>@string/_00</item>
+        <item>@string/_01</item>
+        <item>@string/_02</item>
+        <item>@string/_03</item>
+        <item>@string/_04</item>
+        <item>@string/_05</item>
+        <item>@string/_06</item>
+        <item>@string/_07</item>
+        <item>@string/_08</item>
+        <item>@string/_09</item>
+        <item>@string/_10</item>
+        <item>@string/_11</item>
+        <item>@string/_12</item>
+        <item>@string/_13</item>
+        <item>@string/_14</item>
+        <item>@string/_15</item>
+        <item>@string/_16</item>
+        <item>@string/_17</item>
+        <item>@string/_18</item>
+        <item>@string/_19</item>
+        <item>@string/_20</item>
+        <item>@string/_21</item>
+        <item>@string/_22</item>
+        <item>@string/_23</item>
+        <item>@string/_24</item>
+        <item>@string/_25</item>
+        <item>@string/_26</item>
+        <item>@string/_27</item>
+        <item>@string/_28</item>
+        <item>@string/_29</item>
+        <item>@string/_30</item>
+        <item>@string/_31</item>
+        <item>@string/_32</item>
+        <item>@string/_33</item>
+        <item>@string/_34</item>
+        <item>@string/_35</item>
+        <item>@string/_36</item>
+        <item>@string/_37</item>
+        <item>@string/_38</item>
+        <item>@string/_39</item>
+        <item>@string/_40</item>
+        <item>@string/_41</item>
+        <item>@string/_42</item>
+        <item>@string/_43</item>
+        <item>@string/_44</item>
+        <item>@string/_45</item>
+        <item>@string/_46</item>
+        <item>@string/_47</item>
+        <item>@string/_48</item>
+        <item>@string/_49</item>
+        <item>@string/_50</item>
+        <item>@string/_51</item>
+        <item>@string/_52</item>
+        <item>@string/_53</item>
+        <item>@string/_54</item>
+        <item>@string/_55</item>
+        <item>@string/_56</item>
+        <item>@string/_57</item>
+        <item>@string/_58</item>
+        <item>@string/_59</item>
+    </string-array>
+
+    <string-array name="string_array_list_hours">
+        <item>@string/_00</item>
+        <item>@string/_01</item>
+        <item>@string/_02</item>
+        <item>@string/_03</item>
+        <item>@string/_04</item>
+        <item>@string/_05</item>
+        <item>@string/_06</item>
+        <item>@string/_07</item>
+        <item>@string/_08</item>
+        <item>@string/_09</item>
+        <item>@string/_10</item>
+        <item>@string/_11</item>
+        <item>@string/_12</item>
+        <item>@string/_13</item>
+        <item>@string/_14</item>
+        <item>@string/_15</item>
+        <item>@string/_16</item>
+        <item>@string/_17</item>
+        <item>@string/_18</item>
+        <item>@string/_19</item>
+        <item>@string/_20</item>
+        <item>@string/_21</item>
+        <item>@string/_22</item>
+        <item>@string/_23</item>
+    </string-array>
+
+</resources>
