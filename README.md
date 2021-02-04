@@ -7,7 +7,7 @@ Choose needed time and repeatability.
 
 When the alarm clock triggers the screen turns on, ringtone starts playing, alarm clock image view begins animation.
 
-Press snooze or stop buttons to delay alarm clock for 5 minutes or stop alarm ringing.
+Press snooze or stop buttons to delay alarm clock for 5 minutes or stop alarm clock ringing.
 
 SQLiteDatabase is used to save alarm clockes.
 
